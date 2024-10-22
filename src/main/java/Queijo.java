@@ -1,0 +1,3 @@
+interface Queijo {
+    String tipoQueijo();
+}

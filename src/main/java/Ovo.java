@@ -1,0 +1,3 @@
+interface Ovo {
+    String tipoOvo();
+}
